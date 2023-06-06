@@ -1,7 +1,7 @@
 # DoS attack, detection and prevention in SDN using p4
 DoS attack detection and prevention
 To run the DoS p4 program, follow these steps:
-1.	Open the dos folder in the terminal
+1.	Open the dos_p4_code folder in the terminal
 2.	$ sudo p4run
 3.	Mininet will open after the compilation is complete
 4.	mininet> xterm h1 h2 s1
